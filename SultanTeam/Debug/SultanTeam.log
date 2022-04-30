@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\dell\OneDrive\Desktop\SultanTeam\SultanTeam\Source.cpp(257,12): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\dell\OneDrive\Desktop\SultanTeam\SultanTeam\Source.cpp(257,12): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\dell\OneDrive\Desktop\SultanTeam\SultanTeam\Source.cpp(257,12): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\dell\OneDrive\Desktop\SultanTeam\SultanTeam\Source.cpp(257,12): message : this argument is used as a buffer size
+C:\Users\dell\OneDrive\Desktop\SultanTeam\SultanTeam\Source.cpp(273,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SultanTeam.vcxproj -> C:\Users\dell\OneDrive\Desktop\SultanTeam\Debug\SultanTeam.exe
